@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cardrac</string>
+    <string name="score_0">Score: 0</string>
+    <string name="left_25">Left: 25</string>
+    <string name="bgimg">bgImg</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="score_point">0</string>
+    <string name="game_rules_text">Game Rules</string>
+    <string name="text_game_rules">You have to click on the big card back to get more cards. And the only card you see is the matching one, the none matching ones gets discarded. The point of the game is to get four of a kind! You have 25 chances to reach your target. If get matching cards in column one you get 15points. If you get matching cards on column 2 you get 30points. And on column 4 you get 50points,If you get matching cards on this column you also get extra chances for every matching card!</string>
+</resources>
